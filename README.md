@@ -1,11 +1,9 @@
 # addressBookUB_Project
-In this project, we take a website containing the data of faculty staff in the pharmacy department (https://pharmacy.buffalo.edu/faculty-staff.html) and organize it to make it easier to read.
+In this project, we take a website containing the data of faculty staff in the pharmacy department (https://pharmacy.buffalo.edu/faculty-staff.html) to organize it for easier reading. It formats the data systematically.
 
 This code can be modified easily to fit the same data for other faculty staff websites.
 
-# Data
-
-This is the data that is grabbed to be formatted:
+# Data Format
 
 >Faculty Name
 
